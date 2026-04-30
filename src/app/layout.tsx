@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "InvoiceQuick | AI-Powered Invoice Generator",
   description: "Generate professional invoices and quotes instantly using AI. No signup required.",
+  verification: {
+    google: 'QhEO2Epscuxe7UxXfgJOCNs7ypeT5P6ff9SSZu96-aA',
+  },
 };
 
 export default function RootLayout({
