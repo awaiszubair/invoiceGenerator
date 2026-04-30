@@ -3,9 +3,9 @@ import { Zap, Shield, Sparkles, Clock, Globe, ArrowRight, CheckCircle, FileText,
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About AI Billing Tool for Freelancers Free - InvoiceQuick',
-  description: 'Deep dive into our AI invoice generator from description. Learn how to generate invoice using natural language for digital marketing services and more with our free invoice generator.',
-  keywords: 'AI invoice maker free no signup, AI billing tool for freelancers free, invoice generator without login free, AI invoice generator from description, create invoice by typing description, generate invoice using natural language, invoice for digital marketing services, invoice generator with tax calculation free, invoice with amount in words automatically, Ai invoice generetor, invoice generator',
+  title: 'About InvoiceQuick - The Best AI Billing Tool for Freelancers Free',
+  description: 'Learn how InvoiceQuick, the world\'s fastest AI invoice generator from description, helps you generate invoice using natural language for digital marketing services and more.',
+  keywords: 'InvoiceQuick, AI invoice maker free no signup, AI billing tool for freelancers free, invoice generator without login free, AI invoice generator from description, create invoice by typing description, generate invoice using natural language, invoice for digital marketing services, invoice generator with tax calculation free, invoice with amount in words automatically, Ai invoice generetor, invoice generator',
 };
 
 export default function AboutPage() {
@@ -18,7 +18,7 @@ export default function AboutPage() {
         <section style={{ padding: '6rem 2rem', textAlign: 'center', backgroundColor: '#f8fafc' }}>
           <div style={{ maxWidth: '900px', margin: '0 auto' }}>
             <h1 className="font-outfit" style={{ fontSize: '3.5rem', fontWeight: 800, color: '#0f172a', lineHeight: 1.1, marginBottom: '1.5rem' }}>
-              The Ultimate <span style={{ color: 'var(--primary)' }}>AI Invoice Maker Free No Signup</span> Required
+              InvoiceQuick: The Ultimate <span style={{ color: 'var(--primary)' }}>AI Invoice Maker Free No Signup</span> Required
             </h1>
             <p style={{ fontSize: '1.25rem', color: '#475569', lineHeight: 1.6, marginBottom: '2.5rem' }}>
               Welcome to the future of billing. InvoiceQuick is the premier <strong>AI billing tool for freelancers free</strong> of cost. 
@@ -48,9 +48,9 @@ export default function AboutPage() {
           <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
             <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
               <h2 className="font-outfit" style={{ fontSize: '2.25rem', fontWeight: 700, color: '#0f172a', marginBottom: '1rem' }}>
-                Why Choice Our AI Invoice Maker?
+                Why Choose InvoiceQuick as your AI Invoice Maker?
               </h2>
-              <p style={{ color: '#64748b' }}>Powerful features built into the best <strong>invoice generator</strong> on the web.</p>
+              <p style={{ color: '#64748b' }}>Powerful features built into InvoiceQuick, the best <strong>invoice generator</strong> on the web.</p>
             </div>
             
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem' }}>
@@ -90,7 +90,7 @@ export default function AboutPage() {
             
             <div style={{ color: '#334155', fontSize: '1.1rem', lineHeight: 1.8 }}>
               <p style={{ marginBottom: '1.5rem' }}>
-                In today's fast-paced digital economy, freelancers and agencies need tools that keep up. That's why we developed the most advanced <strong>Ai invoice generetor</strong> available. Unlike traditional software, our platform allows you to <strong>create invoice by typing description</strong>. Whether you need an <strong>invoice for digital marketing services</strong>, web development, or consulting, our AI understands your needs.
+                In today's fast-paced digital economy, freelancers and agencies need tools that keep up. That's why we developed <strong>InvoiceQuick</strong>, the most advanced <strong>Ai invoice generetor</strong> available. Unlike traditional software, InvoiceQuick allows you to <strong>create invoice by typing description</strong>. Whether you need an <strong>invoice for digital marketing services</strong>, web development, or consulting, our AI understands your needs.
               </p>
 
               <h3 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#0f172a', marginTop: '2.5rem', marginBottom: '1rem' }}>
