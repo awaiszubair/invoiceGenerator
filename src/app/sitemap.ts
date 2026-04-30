@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://invoicequick.com'; // Replace with your actual domain
+  const baseUrl = 'https://invoice-generator-kohl-beta.vercel.app/'; // Replace with your actual domain
 
   return [
     {

@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://invoicequick.com'; // Replace with your actual domain
+  const baseUrl = 'https://invoice-generator-kohl-beta.vercel.app/'; // Replace with your actual domain
 
   return {
     rules: {
